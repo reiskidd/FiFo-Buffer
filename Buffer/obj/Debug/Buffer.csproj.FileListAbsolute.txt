@@ -1,0 +1,8 @@
+C:\Users\funk\source\repos\Buffer\Buffer\bin\Debug\Buffer.exe.config
+C:\Users\funk\source\repos\Buffer\Buffer\bin\Debug\Buffer.exe
+C:\Users\funk\source\repos\Buffer\Buffer\bin\Debug\Buffer.pdb
+C:\Users\funk\source\repos\Buffer\Buffer\obj\Debug\Buffer.csproj.CoreCompileInputs.cache
+C:\Users\funk\source\repos\Buffer\Buffer\obj\Debug\Buffer.exe
+C:\Users\funk\source\repos\Buffer\Buffer\obj\Debug\Buffer.pdb
+C:\Users\funk\source\repos\Buffer\Buffer\obj\Debug\Buffer.csproj.AssemblyReference.cache
+C:\Users\funk\source\repos\Buffer\Buffer\obj\Debug\Buffer.csproj.SuggestedBindingRedirects.cache
